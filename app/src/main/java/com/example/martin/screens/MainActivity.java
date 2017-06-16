@@ -32,6 +32,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void ingresardostres2(View view)
+    {
+        Intent intent = new Intent(this,Main2Activity.class);
+        startActivity(intent);
+    }
+
+
 
     public void ingresardostre(View view)
     {
