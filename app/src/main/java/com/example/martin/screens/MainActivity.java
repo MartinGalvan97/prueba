@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void ingresardostres2(View view)
+    public void ingresardostres5(View view)
     {
         Intent intent = new Intent(this,Main2Activity.class);
         startActivity(intent);
